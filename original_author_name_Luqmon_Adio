@@ -1,0 +1,4 @@
+Essay on Assessing my Partner
+
+Yes he did use all the comands comands needed, except for the "settings" comand, I tried myself to find a way to use it but I couldn't even in my own submission. Yes, they made sense , the follow the right sequence. The main difference I observed is that he's submission does'nhe outputt include the output from the inputs of his command, but I incuded bith the input commands and the output result in mine. Yes I found the command "git reset --hard origin/master" it reset your current branch back to what what you clone from the remote repository. I tried using the Javascript based web tool  https://learngitbranching.js.org/ it provided me with another way of looking at commands that I would have ordinarilly understood it to be.
+ 
